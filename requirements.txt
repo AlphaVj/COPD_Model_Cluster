@@ -5,4 +5,5 @@ pandas
 django-cors-headers
 djangorestframework
 setuptools
+tensorflow
 gunicorn
