@@ -1,0 +1,8 @@
+django
+numpy
+scikit-learn
+pandas
+django-cors-headers
+djangorestframework
+setuptools
+tensorflow
